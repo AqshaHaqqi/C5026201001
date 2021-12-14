@@ -19,8 +19,7 @@
           <li class="primary"><a href="/pegawai">Pegawai</a></li>
           <li class="primary"><a href="/absen">Absen</a></li>
           <li class="primary"><a href="/pendapatan">Pendapatan</a></li>
-          <li><a href="#">Minggu Depan</a></li>
-          <li><a href="#">Praktikum</a></li>
+          <li class="primary"><a href="/kursi">Kursi</a></li>
         </ul>
     </div>
     <div class="col-sm-10">
