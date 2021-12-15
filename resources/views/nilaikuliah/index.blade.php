@@ -22,7 +22,7 @@
             <th>NRP</th>
 			<th>NilaiAngka</th>
 			<th>SKS</th>
-			<th>Nilai Huruf</th>
+			<th>Nilai Huruf :</th>
             <th>Bobot</th>
 		</tr>
 		@foreach($nilaikuliah as $n)
