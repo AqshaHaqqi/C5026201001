@@ -59,3 +59,12 @@ Route::post('/kursi/update','KursiController@update');
 Route::get('/kursi/hapus/{id}','KursiController@hapus');
 Route::get('/kursi/cari','KursiController@cari');
 Route::get('/kursi/detail/{id}','KursiController@view');
+
+Route::get('/nilaikuliah','NilaiKuliahController@index');
+Route::get('/nilaikuliah/tambah','NilaiKuliahController@tambah');
+Route::post('/nilaikuliah/store','NilaiKuliahController@store');
+Route::get('/nilaikuliah/edit/{id}','NilaiKuliahController@edit');
+Route::post('/nilaikuliah/update','NilaiKuliahController@update');
+Route::get('/nilaikuliah/hapus/{id}','NilaiKuliahController@hapus');
+Route::get('/nilaikuliah/cari','NilaiKuliahController@cari');
+Route::get('/nilaikuliah/detail/{id}','NilaiKuliahController@view');

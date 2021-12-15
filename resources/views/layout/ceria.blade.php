@@ -20,6 +20,7 @@
           <li class="primary"><a href="/absen">Absen</a></li>
           <li class="primary"><a href="/pendapatan">Pendapatan</a></li>
           <li class="primary"><a href="/kursi">Kursi</a></li>
+          <li class="primary"><a href="/nilaikuliah">Nilai Kuliah</a></li>
         </ul>
     </div>
     <div class="col-sm-10">
